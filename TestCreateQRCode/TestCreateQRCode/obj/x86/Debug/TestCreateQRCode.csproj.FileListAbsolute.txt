@@ -1,0 +1,9 @@
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\bin\Debug\TestCreateQRCode.exe
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\bin\Debug\TestCreateQRCode.pdb
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.csprojResolveAssemblyReference.cache
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.Form1.resources
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.Properties.Resources.resources
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.csproj.GenerateResource.Cache
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.exe
+c:\users\je\documents\visual studio 2010\Projects\TestCreateQRCode\TestCreateQRCode\obj\x86\Debug\TestCreateQRCode.pdb
